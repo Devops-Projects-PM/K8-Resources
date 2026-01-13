@@ -5,7 +5,7 @@ metadata:
   namespace: expense
   labels:
     name: nginx
-    project: roboshop
+    project: expense
 
 spec:
   containers:
